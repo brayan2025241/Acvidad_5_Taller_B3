@@ -1,0 +1,9 @@
+[
+    {
+        "idProducto": 1,
+        "nombreProducto": "LALA",
+        "precio": 13,
+        "stock": 90,
+        "categoria": "LACTEO"
+    }
+]

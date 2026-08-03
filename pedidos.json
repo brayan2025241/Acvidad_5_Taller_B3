@@ -1,0 +1,10 @@
+[
+    {
+        "cliente": "Mario Cifuentes",
+        "producto": "Leche",
+        "cantidad": 10,
+        "precioTotal": 100.59,
+        "estadoPedido": "Enviado",
+        "idPedido": 1
+    }
+]

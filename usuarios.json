@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Brayan",
+        "apellido": "Fuentes",
+        "edad": 22,
+        "correo": "brawen@gmail.com",
+        "contrasena": 12345,
+        "rol": "ADMINISTRADOR",
+        "estado": "ACTIVO",
+        "id": 1
+    }
+]

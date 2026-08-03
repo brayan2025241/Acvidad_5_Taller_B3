@@ -1,0 +1,15 @@
+
+import { Estado } from "../../enums/Estado";
+import { Rol } from "../../enums/Rol";
+
+export interface Usuario {
+  id: number;
+  nombre: string;
+  apellido: string;
+  edad: number;
+  correo: string;
+  contrasena: number;
+  rol: Rol;
+  estado: Estado;
+}
+
